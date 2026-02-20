@@ -3,7 +3,8 @@
 using namespace std;
 
 int main(void) {
-    int x, y;
-    cin >> x >> y;
-    cout << divideTwoIntegers(x, y) << "";
+    // define your function in algorithms.h
+    // run here
+
+
 }
