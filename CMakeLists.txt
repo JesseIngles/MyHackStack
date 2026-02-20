@@ -5,4 +5,5 @@ set(CMAKE_CXX_STANDARD 26)
 
 add_executable(HackStack main.cpp
         "divideTwoIntegers.cpp"
-        algorithms.h)
+        algorithms.h
+        bigO.cpp)
